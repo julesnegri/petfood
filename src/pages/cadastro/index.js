@@ -8,7 +8,7 @@ const Cadastro = () => {
       <div className="row">
 
         <div className="col-6 text-right my-auto">
-          <img src={Illustration} className="img-fluid" />
+          <img src={Illustration} className="img-fluid" alt="logo" />
         </div>
         
         <div className="col-6">
